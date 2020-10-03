@@ -1,5 +1,6 @@
 # Quiz App
-## 
+## Score by answering questions correctly
+check on : https://app-quiz.netlify.app/
 
 ### Features Used - With the following features
 
