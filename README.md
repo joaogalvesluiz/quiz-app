@@ -1,5 +1,5 @@
-# Project Title 
-## Quiz App
+# Quiz App
+## 
 
 ### Features Used - With the following features
 
