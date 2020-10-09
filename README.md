@@ -2,7 +2,7 @@
 ## Score by answering questions correctly
 check on : https://app-quiz.netlify.app/
 
-### Features Used - With the following features
+### Features Used
 
 * Answer correctly the questions, make score, and win.
    
